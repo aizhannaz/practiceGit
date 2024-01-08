@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public class SampleClass {
+public class SampleClass {
+    public static void main(String[] args) {
+        System.out.println("Hello world");
+
+        System.out.println("I'm learning git");
+    }
 }
